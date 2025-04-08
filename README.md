@@ -16,7 +16,6 @@ The project includes custom versions of functions for:
 
 - **String Manipulation:** `strlen`, `strjoin`, `strlcat`
 - **Memory Management:** `malloc`, `calloc`
-- **Input/Output:** `printf`
 - and more!
 
-Thank you for visiting, and happy coding! 🚀
+Thank you for visiting. Happy coding! 🚀
